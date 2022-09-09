@@ -4,14 +4,14 @@
 um novo produto no mercado chamado FaleMais.
 Normalmente um cliente Telzir pode fazer uma chamada de uma cidade para outra pagando uma
 tarifa fixa por minuto, com o preço sendo pré-definido em uma lista com os códigos DDDs de
-origem e destino:
-Origem|Destino|$/min
-011|016|1.90
-016|011|2.90
-011|017|1.70
-017|011|2.70
-011|018|0.90
-018|011|1.90
+origem e destino:<br>
+Origem|Destino|$/min<br>
+011|016|1.90<br>
+016|011|2.90<br>
+011|017|1.70<br>
+017|011|2.70<br>
+011|018|0.90<br>
+018|011|1.90<br>
 Com o novo produto FaleMais da Telzir o cliente adquire um plano e pode falar de graça até
 um determinado tempo (em minutos) e só paga os minutos excedentes. Os minutos excedentes
 tem um acréscimo de 10% sobre a tarifa normal do minuto. Os planos são FaleMais 30 (30
