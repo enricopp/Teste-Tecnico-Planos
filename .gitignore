@@ -38,6 +38,7 @@ migrate_working_dir/
 /Miscellaneous
 /ios
 /build
+/android
 
 # Web related
 lib/generated_plugin_registrant.dart
