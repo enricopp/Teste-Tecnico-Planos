@@ -22,3 +22,7 @@ códigos das cidades de origem e destino, o tempo da ligação em minutos e esco
 plano FaleMais. O sistema deve mostrar dois valores: (1) o valor da ligação com o plano e (2)
 sem o plano. O custo inicial de aquisição do plano deve ser desconsiderado para este problema.
 </p>
+
+
+https://user-images.githubusercontent.com/103070413/189458402-50c9d3cc-d172-447f-ab7b-af43fa49005c.mp4
+
