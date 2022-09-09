@@ -23,6 +23,8 @@ plano FaleMais. O sistema deve mostrar dois valores: (1) o valor da ligação co
 sem o plano. O custo inicial de aquisição do plano deve ser desconsiderado para este problema.
 </p>
 
+<h3>Roda no Flutter WEB e Dispositivos Mobile</h3>
+
 
 https://user-images.githubusercontent.com/103070413/189458402-50c9d3cc-d172-447f-ab7b-af43fa49005c.mp4
 
