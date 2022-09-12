@@ -1,4 +1,4 @@
-<h1>Desafio Teste Técnico</h1>
+<h1>Desafio Programação</h1>
 <h2>Instruções do desafio</h2>
 <p>A empresa de telefonia Telzir, especializada em chamadas de longa distância nacional, vai colocar
 um novo produto no mercado chamado FaleMais.
